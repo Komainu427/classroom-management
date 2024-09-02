@@ -36,6 +36,7 @@ $database_password = "pass";
     <style type="text/css">
       body {
         background: #f1f1f1;
+        height: 1px;
       }
     </style>
   </head>
